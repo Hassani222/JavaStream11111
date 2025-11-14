@@ -2,6 +2,8 @@ SAFAA HASSANI
 4IIR groupe 2
 EMSI moulay youssef 
 
+![f754bd04-918d-40dc-958e-f25908204f23](https://github.com/user-attachments/assets/cd89d028-dee6-4934-95ff-c205f2c5eac3)
+
 <img width="724" height="700" alt="12-class-diagram-online-shopping" src=("https://github.com/user-attachments/assets/6cbd324d-c5dd-4f7f-9096-a626c0e3a3d6" )/> 
 
 
