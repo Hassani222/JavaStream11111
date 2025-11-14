@@ -1,8 +1,9 @@
 SAFAA HASSANI 
 4IIR groupe 2
 EMSI moulay youssef 
-<img width="724" height="700" alt="12-class-diagram-online-shopping" src="(https://github.com/user-attachments/assets/6cbd324d-c5dd-4f7f-9096-a626c0e3a3d6)
-" />
+
+<img width="724" height="700" alt="12-class-diagram-online-shopping" src="(https://github.com/user-attachments/assets/6cbd324d-c5dd-4f7f-9096-a626c0e3a3d6" />
+
 Projet 
 
 Titre du Projet : Système de Détection et Prévention des Crises Émotionnelles en Milieu Scolaire
