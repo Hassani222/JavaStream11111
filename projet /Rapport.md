@@ -132,3 +132,6 @@ Les droits d’accès selon les rôles
 La conformité éthique et scolaire
 
 La confidentialité est essentielle pour protéger la vie privée des élèves.
+
+<img width="742" height="697" alt="image" src="https://github.com/user-attachments/assets/71b9d408-ee7e-4ddc-bf67-701b08a06f58" />
+
