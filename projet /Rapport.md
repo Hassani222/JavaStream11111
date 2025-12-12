@@ -133,5 +133,6 @@ La conformité éthique et scolaire
 
 La confidentialité est essentielle pour protéger la vie privée des élèves.
 
-<img width="742" height="697" alt="image" src="https://github.com/user-attachments/assets/71b9d408-ee7e-4ddc-bf67-701b08a06f58" />
+<img width="901" height="864" alt="image" src="https://github.com/user-attachments/assets/619edf2d-17f9-4e3a-a1d4-ad8a5a5f74e3" />
+
 
