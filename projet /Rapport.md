@@ -9,7 +9,7 @@ Projet
 
 Titre du Projet : Système de Détection et Prévention des Crises Émotionnelles en Milieu Scolaire
 Description : Solution utilisant la computer vision et l'analyse comportementale pour détecter les signes de détresse émotionnelle chez les élèves, générer des alertes aux conseillers et proposer des interventions personnalisées.
-Technologies Suggérées : Python (OpenCV, TensorFlow), Spring Boot, React, PostgreSQL
+Technologies Suggérées : java ,html,css,js ,jdbc maven
 Thèmes Principaux : Santé émotionnelle, Reconnaissance Hybride
 
 Descriptif
